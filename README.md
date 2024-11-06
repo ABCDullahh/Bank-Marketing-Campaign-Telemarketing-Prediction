@@ -52,6 +52,13 @@ The final LightGBM model was tuned with hyperparameter optimization. Key metrics
 
 ---
 
+### 📊 **Interactive Dashboard**
+
+Explore the project’s interactive **Bank Marketing Dashboard** on Tableau to visualize campaign metrics, segmentation insights, and model evaluation details:
+[Bank Marketing Dashboard on Tableau](https://public.tableau.com/app/profile/taufiq.urrahman/viz/FinalProjectExtremeOutlier/BankMarketingDashboard?publish=yes)
+
+---
+
 ### 🏆 **Key Insights**
 
 1. **Customer Segmentation**: Older customers, customers with specific job types (e.g., retired, management), and customers with higher education levels showed more interest in time deposits.
@@ -119,7 +126,9 @@ jupyter notebook
 
 1. [LightGBM Documentation](https://lightgbm.readthedocs.io/en/latest/Parameters-Tuning.html)
 2. [SHAP Documentation](https://github.com/slundberg/shap)
-3. Business insights referenced from customer behavior research and finance literature listed in the project notebook.
+3. [GoogleDrive 1](https://drive.google.com/drive/folders/1iQWeyumQTMWSEUX88zGJVI1_-Pu3Vl9X?usp=drive_link).
+4. [GoogleDrive 2](https://drive.google.com/drive/folders/1_Mv4PTgV-ABWhKNaTvA3MapPYZxc_YlX?usp=sharing).
+5. Business insights referenced from customer behavior research and finance literature listed in the project notebook.
 
 
 ---
