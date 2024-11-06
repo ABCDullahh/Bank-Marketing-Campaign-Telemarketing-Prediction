@@ -116,8 +116,8 @@ jupyter notebook
 
 ### 👥 **Contributors**
 
-- **Faizal Lutfi Yoga Triadi**
-- **Taufiqurrahman** 
+- [**Faizal Lutfi Yoga Triadi**](https://github.com/ABCDullahh)
+- [**Taufiqurrahman**](https://github.com/Taufiq55/)
 
 ---
 
