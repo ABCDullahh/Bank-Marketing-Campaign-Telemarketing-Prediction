@@ -95,7 +95,6 @@ Clone this repository and install the dependencies:
 
 ```bash
 git clone https://github.com/ABCDullahh/Purwadhika-Final-Project-Bank-Marketing-Campaign.git
-cd bank-marketing-campaign
 ```
 
 #### **Run the Notebook**
