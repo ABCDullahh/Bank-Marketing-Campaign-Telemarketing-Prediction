@@ -1,0 +1,50 @@
+Data Utama dan Sumber
+1. GDP per Kapita Portugal (2014): $22,103.7 USD (data dari World Bank).
+2. Kurs Rata-Rata USD ke EUR pada 2014: 0.754 (historical exchange rate data).
+3. GDP per Kapita dalam EUR: €16,669.79 (setelah konversi).
+4. Populasi Portugal (2014): 10,401,062 (World Bank).
+5. Rasio Bank Deposits to GDP Portugal (2014): 81.58% (Federal Reserve Bank of St. Louis).
+6. Net Interest Margin (NIM) untuk Bank di Portugal (2014): 0.91% (Federal Reserve Bank of St. Louis).
+
+Perhitungan Detail
+
+ 1. Menghitung Total GDP dalam EUR
+   - Total GDP = GDP per Kapita × Populasi
+   - Total GDP = €16,669.79 × 10,401,062 ≈ €173.187.000.000
+
+ 2. Mengestimasi Total Deposito di Portugal (2014)
+   - Total Deposito = Total GDP × Rasio Deposit to GDP
+   - Total Deposito = €173.187.000.000 × 81.58%
+   - Total Deposito ≈ €141.250.000.000
+
+ 3. Menghitung Rata-Rata Deposito per Orang
+   - Rata-rata Deposito per Kapita = Total Deposito / Populasi
+   - Rata-rata Deposito per Kapita = €141.250.000.000 / 10,401,062
+   - Rata-rata Deposito per Kapita ≈ €13,580
+
+ 4. Menghitung Keuntungan Bank dari Deposito per Orang
+   - Berdasarkan Net Interest Margin (NIM) 0.91%, kita bisa menghitung perkiraan keuntungan bank dari setiap orang yang memiliki deposito.
+   - Keuntungan per Tahun dari Deposito per Orang = Rata-rata Deposito per Kapita × NIM
+   - Keuntungan per Tahun = €13,580 × 0.91%
+   - Keuntungan per Tahun ≈ €123.58 per orang
+
+Rangkuman Akhir
+1. Rata-Rata Deposito per Orang di Portugal (2014): Sekitar €13,580.
+2. Keuntungan Bank dari Deposito per Orang dalam 1 Tahun: Sekitar €123.58.
+
+Catatan Penting
+- Estimasi Sederhana: Angka-angka ini adalah estimasi rata-rata dan tidak memperhitungkan distribusi kekayaan yang mungkin tidak merata. Artinya, beberapa individu mungkin memiliki deposito jauh di atas rata-rata, sementara yang lain mungkin tidak memiliki deposito sama sekali.
+- NIM Mewakili Keuntungan dari Aset Produktif Bank: Net Interest Margin (NIM) adalah margin keuntungan dari seluruh aset produktif bank (termasuk pinjaman), bukan hanya dari deposito. Namun, NIM memberikan gambaran umum profitabilitas bank dari simpanan dan aset produktif lainnya.
+
+Estimasi ini memberikan wawasan mengenai potensi keuntungan bank dari deposito di Portugal pada tahun 2014, meskipun dengan beberapa keterbatasan asumsi dan interpretasi data.
+
+
+https://simplycontact.com/outbound-call-center-pricing-post/#:~:text=There%20are%20three%20basic%20models,5%2D$10%20per%20hour).
+
+https://fred.stlouisfed.org/series/DDEI01PTA156NWDB
+
+https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2014&locations=PT&start=2014
+
+https://www.poundsterlinglive.com/history/USD-EUR-2014
+
+https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PT
