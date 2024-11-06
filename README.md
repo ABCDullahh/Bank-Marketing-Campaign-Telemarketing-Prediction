@@ -71,9 +71,9 @@ Explore the project’s interactive **Bank Marketing Dashboard** on Tableau to v
 
 The LightGBM model significantly outperforms the rule-based approach by:
 
-- **Reducing False Negatives by 48.2%**: Reduces the number of missed potential customers.
-- **Increasing True Positives by 105.5%**: Improves identification of customers interested in time deposits.
-- **Increasing Net Profit by 149.53%**: Results in a net profit of €23,039.904 compared to the rule-based model’s loss.
+- **Reducing False Negatives by 48.04%**: Reduces the number of missed potential customers.
+- **Increasing True Positives by 105.15%**: Improves identification of customers interested in time deposits.
+- **Increasing Net Profit by 150.3%**: Results in a net profit of €23,395.748 compared to the rule-based model’s loss.
 
 ---
 
