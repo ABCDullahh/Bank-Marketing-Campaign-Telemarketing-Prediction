@@ -1,6 +1,6 @@
 ## Bank Marketing Campaign Optimization with Machine Learning
 [**Presentation**](https://www.canva.com/design/DAGV3t26USc/Bf4vYyCVckKSeMJn-vTMug/view?utm_content=DAGV3t26USc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7656ddf85c)
-
+[**Dashboard**](https://public.tableau.com/app/profile/taufiq.urrahman/viz/FinalProjectExtremeOutlier/BankMarketingDashboard?publish=yes)
 ---
 
 This repository contains a comprehensive analysis and model development for a bank's marketing campaign targeting time deposits. The project utilizes machine learning techniques to predict customer interest in time deposits, thereby improving conversion rates, optimizing marketing spend, and reducing operational inefficiencies.
