@@ -1,4 +1,5 @@
 ## Bank Marketing Campaign Optimization with Machine Learning
+**[Presentation]**(https://www.canva.com/design/DAGV3t26USc/Bf4vYyCVckKSeMJn-vTMug/view?utm_content=DAGV3t26USc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7656ddf85c)
 
 ---
 
@@ -8,7 +9,7 @@ This repository contains a comprehensive analysis and model development for a ba
 
 ### 📌 **Project Overview**
 
-The bank aims to enhance its marketing strategy by identifying customers with high potential interest in time deposits, a product with historically low conversion rates in previous campaigns. Given budget constraints, the bank cannot reach all customers directly, such as through phone calls, making it essential to focus on high-potential leads. This project addresses these challenges with a machine learning model prioritizing recall and optimizing precision to minimize lost revenue from false negatives.
+The bank aims to enhance its marketing strategy by identifying customers with high potential interest in time deposits, a product with historically low conversion rates in previous campaigns. Given budget constraints, the bank cannot reach all customers directly, such as through phone calls, making it essential to focus on high-potential leads. This project addresses these challenges with a machine learning model prioritizing recall and optimizing precision to minimize lost revenue from false negatives. 
 
 ### 📝 **Problem Statement**
 
